@@ -1,0 +1,4 @@
+Enter p to play and q to quit
+
+Choose From the options 'A', 'B', or 'C' to play the version you want to.
+The game is self described at every stage
